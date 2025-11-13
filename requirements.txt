@@ -3,8 +3,7 @@ pandas
 numpy
 matplotlib
 joblib
-xgboost==1.5.2
-setuptools>=70.0
+xgboost==1.6.2
 numpy
 scikit-learn
 seaborn
