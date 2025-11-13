@@ -9,3 +9,4 @@ scikit-learn
 seaborn
 mlflow
 setuptools>=70.0
+
