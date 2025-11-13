@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 import joblib
 
-import os
-st.write("Classifier size:", os.path.getsize("models/best_classifier.joblib"))
 
 # ======================================================
 # LOAD RESOURCES
