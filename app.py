@@ -3,8 +3,8 @@ import pandas as pd
 import numpy as np
 import joblib
 import os
-st.write("Cloud model dir:", os.listdir("models"))
-st.write("Cloud model size:", os.path.getsize("models/best_classifier.joblib"))
+# st.write("Cloud model dir:", os.listdir("models"))
+# st.write("Cloud model size:", os.path.getsize("models/best_classifier.joblib"))
 
 
 # ======================================================
